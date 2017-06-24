@@ -1,6 +1,6 @@
 region = "ap-southeast-1"
-access_key = "AKIAJ564F4DVEIPSLNQA"
-secret_key = "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"
+access_key = ""
+secret_key = ""
 
 availability_zoneA = "ap-southeast-1a"
 
