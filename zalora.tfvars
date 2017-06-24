@@ -1,6 +1,4 @@
 region = "ap-southeast-1"
-access_key = ""
-secret_key = ""
 
 availability_zoneA = "ap-southeast-1a"
 
